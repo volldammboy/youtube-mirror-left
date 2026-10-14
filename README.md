@@ -41,7 +41,7 @@ Then:
 ./gradlew assembleRelease bundleRelease
 ```
 
-Debug APK output:
+Debug APK output (local build only, not published in releases):
 
 ```text
 app/build/outputs/apk/debug/app-debug.apk

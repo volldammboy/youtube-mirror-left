@@ -41,7 +41,7 @@ Después:
 ./gradlew assembleRelease bundleRelease
 ```
 
-Salida del APK de depuración:
+Salida del APK de depuración (solo build local, no publicado en releases):
 
 ```text
 app/build/outputs/apk/debug/app-debug.apk
