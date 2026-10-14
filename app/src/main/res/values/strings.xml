@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Espejo YouTube Crochet</string>
+    <string name="btn_mirror">Espejo</string>
+    <string name="btn_speed">Velocidad</string>
+    <string name="status_mirror_on">Espejo: SI</string>
+    <string name="status_mirror_off">Espejo: NO</string>
+    <!-- Nota: premium requiere iniciar sesión en la WebView -->
+</resources>
